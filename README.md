@@ -1,3 +1,5 @@
+## Cursor-Vibe coding
+
 # Insurance Advisor Biometric Verification System
 
 This application demonstrates a secure registration and authentication system for insurance advisors, leveraging facial biometrics and professional credentials verification to prevent fraudulent account access.
