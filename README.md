@@ -18,6 +18,15 @@ This application demonstrates a secure registration and authentication system fo
 - Professional credential verification
 - Modern, responsive UI
 
+## Screens
+
+Landing page:
+image.png
+
+Registration screen:
+image.png
+
+
 ## Getting Started
 
 ### Prerequisites
