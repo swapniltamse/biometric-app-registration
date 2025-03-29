@@ -21,10 +21,14 @@ This application demonstrates a secure registration and authentication system fo
 ## Screens
 
 Landing page:
-image.png
+![Screenshot 2025-03-29 193612](https://github.com/user-attachments/assets/7a066946-c3d1-4d44-bca9-e7eceb21f160)
 
 Registration screen:
-image.png
+![Screenshot 2025-03-29 193711](https://github.com/user-attachments/assets/04845719-cb02-4a4a-9c95-8bacd7fb4eab)
+
+
+Registraction Screen 2:
+![image](https://github.com/user-attachments/assets/3f6b0bb7-dac9-4a15-afda-45b29119e0bd)
 
 
 ## Getting Started
